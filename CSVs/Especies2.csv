@@ -1,0 +1,556 @@
+﻿1;Horquidea;Aa nervosa;232;1;1
+2;ratón chinchilla común;Abrocoma bennetti;233;2;2
+3;ratón chinchilla de cola corta;Abrocoma cinerea;234;3;3
+4;ratón lanudo común;Abrothrix longipilis;235;4;4
+5; Horquidea;Acaena masafuerana ;236;5;5
+6;Bucardo ;Capra pyrenaica pyrenaica;237;6;6
+7;tunduco de Porter;Aconaemys porteri;238;7;7
+8;Horquidea;Adesmia argyrophylla;239;8;8
+9;paramela del Puangue;Adesmia balsamica;240;9;9
+10;Rocín;Chersophilus duponti ;241;10;10
+11;Bermejuela ;Chondrostoma arcasii;242;11;11
+12;Aguilucho pálido ;Circus cyaneus;243;12;12
+13;Lamprehuela ;Cobitis calderoni ;244;13;13
+14;paramela de Til-Til;Adesmia resinosa;245;14;14
+15;mata espinosa;Adesmia volckmanni;246;15;15
+16;palito negro, doradilla;Adiantum chilense;247;16;16
+17;palito negro;Adiantum gertrudis;248;17;17
+18;palito negro;Adiantum pearcei;249;18;18
+19;pancora;Aegla abtao abtao;250;19;19
+20;pancora;Aegla abtao riolimayana;251;20;20
+21;pancora;Aegla alacalufi;252;21;21
+22;pancora;Aegla bahamondei;253;22;22
+23;pancora;Aegla concepcionensis;254;23;23
+24;pancora;Aegla denticulata;255;24;24
+25;pancora;Aegla expansa;256;25;25
+26;pancora;Aegla laevis laevis;257;26;26
+27;pancora;Aegla laevis talcahuano;258;27;27
+28;pancora;Aegla manni;259;28;28
+29;pancora;Aegla maulensis;260;29;29
+30;pancora;Aegla neuquensis neuquensis;261;30;30
+31;pancora;Aegla papudo;262;31;31
+32;pancora;Aegla pewenchae;263;32;32
+33;pancora;Aegla rostrata;264;33;33
+34;pancora;Aegla spectabilis;265;34;34
+35;Cernícola primilla ;Falco naumanni;266;35;35
+36;Grulla común;Grus grus;267;36;36
+37;sapo espinudo austral;Alsodes australis;268;37;37
+38;sapo de Barros;Alsodes barrioi;269;38;38
+39;sapo de Hugo;Alsodes hugoi;270;39;39
+40;rana de pecho espinoso de Tolhuaca;Alsodes igneus;271;40;40
+41;sapo kawaskar;Alsodes kaweshkari;272;41;41
+42;sapo de pecho espinoso de Potrero;Alsodes laevis;273;42;42
+43;sapo de monte;Alsodes montanus;274;43;43
+44;sapo;Alsodes monticola;275;44;44
+45;sapo arriero;Alsodes nodosus;276;45;45
+46;rana de pecho espinoso de Oncol;Alsodes norae;277;46;46
+47;sapo;Alsodes tumultuosus;278;47;47
+48;sapo de Vanzolini;Alsodes vanzolinii;279;48;48
+49;sapo de pecho espinoso de verrugas;Alsodes verrucosus;280;49;49
+50;sapo de pecho espinoso de Malleco;Alsodes vittatus;281;50;50
+51;Sapo pecho tierra;Alsophis elegans;282;51;51
+52;Lirio amarillo;Alstroemeria achirae;283;52;52
+53;lirio del campo;Alstroemeria andina;284;53;53
+54;lirio del campo;Alstroemeria diluta;285;54;54
+55;alstroemeria;Alstroemeria garaventae;286;55;55
+56;Lirio azul;Alstroemeria graminea;287;56;56
+57; lirio costero;Alstroemeria hookeri;288;57;57
+58; lirio costero;Alstroemeria kingii;289;58;58
+59; lirio costero;Alstroemeria lutea;290;59;59
+60;alstroemeria;Alstroemeria magenta;291;60;60
+61;alstroemeria;Alstroemeria magna;292;61;61
+62;lirio morado de La Serena;Alstroemeria magnifica;293;62;62
+63;Garza imperial;Ardea purpurea;294;63;63
+64;Lobo de río ;Barbatula barbatula ;295;64;64
+65;Aguilucho cenizo;Circus pygargus ;296;65;65
+66;Galápago europeo;Emys orbicularis ;297;66;66
+67;Desmán ;Galemys pyrenaicus ;298;67;67
+68;Lagartija pirenaica ;Lacerta bonnali;299;68;68
+69;Pediz nival;Lagopus mutus;300;69;69
+70;Visón europeo;Mustela lutreola;301;70;70
+71;Murciélago ratonero mediano ;Myotis blythii;302;71;71
+72;Murciélago patudo;Myotis capaccinii ;303;72;72
+73;Murciélago ratonero grande;Myotis myotis;304;73;73
+74;Alimoche común, boleta ;Neophron percnopterus;305;74;74
+75;Perdiz pardilla;Perdix perdix ;306;75;75
+76;Ganga ibérica;Pterocles alchata ;307;76;76
+77;Ganga ortega;Pterocles orientalis ;308;77;77
+78;Chova piquirroja;Pyrrhocorax pyrrhocorax;309;78;78
+79;Murciélago mediterráneo de herradura ;Rhinolophus euryale ;310;79;79
+80;Murciélago grande de herradura ;Rhinolophus ferrumequinum ;311;80;80
+81;Murciélago pequeño de herradura ;Rhinolophus hipposideros ;312;81;81
+82;Bagre;Squalius cephalus ;313;82;82
+83;Sisión;Tetrax tetrax;314;83;83
+84;Nutria;Lutra lutra;315;84;84
+85;Topillo de Cabrera ;Microtus cabrerae;316;85;85
+86;caracol terrestre ;Amphidoxa tessellata;317;86;86
+87;cachudito ;Anairetes fernandezianus;318;87;87
+88;pato gargantillo;Anas bahamensis;319;88;88
+89;pato cuchara;Anas platalea;320;89;89
+90;Lirio de Campo;Anemone moorei ;321;90;90
+91;gaviotín de San Félix;Anous stolidus;322;91;91
+92;rayadito de Más Afuera;Aphrastura masafuerae;323;92;92
+93;Milano real ;Milvus milvus;324;93;93
+94;Urogallo;Tetrao urogallus;325;94;94
+95;peladilla;Aplochiton marinus;326;95;95
+96;araucaria;Araucaria araucana;327;96;96
+97;lobo fino austral;Arctocephalus australis;328;97;97
+98;lobo fino antártico;Arctocephalus gazella;329;98;98
+99;lobo fino subantártico;Arctocephalus tropicalis;330;99;99
+100;garza cuca;Ardea cocoi;331;100;100
+101;doradilla;Argyrochosma nivea;332;101;101
+102;nuco;Asio flammeus;333;102;102
+103;Alondra común ;Alauda arvensis ;334;103;103
+104;Anguila;Anguilla anguilla  ;335;1;104
+105;Sapo común ;Bufo bufo ;336;2;105
+106;Pardillo común;Carduelis cannabina;337;3;106
+107;Jilguero;Carduelis carduelis;338;4;107
+108;Verderón común;Carduelis chloris ;339;5;108
+109;Lúgano;Carduelis spinus ;340;6;109
+110;Cigüeña  blanca ;Ciconia ciconia;341;7;110
+111;helecho;Asplenium stellatum ;342;8;111
+112;anisillo;Asteriscium vidalii;343;9;112
+113;sapo de Puerto Edén;Atelognathus ceii;344;10;113
+114;sapo;Atelognathus grandisonae;345;11;114
+115;rana de Jeinimeni;Atelognathus jeinimenensis;346;12;115
+116;perdicita cordillerana;Attagis gayi;347;13;116
+117;ratón de la puna;Auliscomys sublimis;348;14;117
+118;marsopa anteojillo;Australophocoena dioptrica;349;15;118
+119;cactus patagónico;Austrocactus patagonicus ;350;16;119
+120;hiberno;Austrocactus philippii ;351;17;120
+121;espinifloro;Austrocactus spiniflorus ;352;18;121
+122;ciprés de la Cordillera;Austrocedrus chilensis;353;19;122
+123;pejerrey de mar;Austromenidia laticlavia;354;20;123
+124;avellanita ;Avellanita bustillosii;355;21;124
+125;corcolén;Azara serrata;356;22;125
+126;llareta;Azorella compacta;357;23;126
+127;ballena minke;Balaenoptera acutorostrata;358;24;127
+128;ballena sei;Balaenoptera borealis;359;25;128
+129;ballena de Bryde o rorcual de Edén;Balaenoptera brydei;360;26;129
+130;ballena azul;Balaenoptera musculus;361;27;130
+131;ballena de aleta, rorcual común;Balaenoptera physalus;362;28;131
+132;pejerrey chileno;Basilichthys australis;363;29;132
+133;pejerrey chileno;Basilichthys microlepidotus;364;30;133
+134;pejerrey;Basilichthys semotilus;365;31;134
+135;rana jaspeada;Batrachyla antartandica;366;32;135
+136;rana moteada;Batrachyla leptopus;367;33;136
+137;rana de antifaz de Bahía Murta;Batrachyla nibaldoi;368;34;137
+138;rana de ceja, ranita de antifaz;Batrachyla taeniata;369;35;138
+139;belloto del sur;Beilschmiedia berteroana ;370;36;139
+140;belloto del norte;Beilschmiedia miersii ;371;37;140
+141;benthamiella;Benthamiella azorella;372;38;141
+142;benthamiella;Benthamiella lanata;373;39;142
+143;benthamiella;Benthamiella nordenskjoldii;374;40;143
+144;benthamiella;Benthamiella patagonica;375;41;144
+145;ballena picuda de Arnoux;Berardius arnouxi;376;42;145
+146;michay rojo ;Berberidopsis corallina;377;43;146
+147;michay de paposo ;Berberis litoralis;378;44;147
+148;michay de Neger;Berberis negeriana ;379;45;148
+149;orquídea de Paposo;Bipinnula taltalensis;380;46;149
+150;puye;Brachygalaxias bullocki;381;47;150
+151;cactus candelabro;Browningia candelaris;382;48;151
+152;sapo de papilas;Bufo papillosus;383;49;152
+153;bagrecito;Bullockia maldonadoi;384;50;153
+154;aguilucho chico;Buteo albigula;385;51;154
+155;aguilucho de la puna;Buteo poecilochrous;386;52;155
+156;aguilucho de masafuera;Buteo polyosoma exsul;387;53;156
+157;aguilucho de cola rojiza;Buteo ventralis;388;54;157
+158;calceolaria, topa-topa;Calceolaria williamsii;389;55;158
+159;playero ártico;Calidris canutus;390;56;159
+160;iguana;Callopistes maculatus;391;57;160
+161;carpintero negro;Campephilus magellanicus;392;58;161
+162;ballena franca pigmea;Caperea marginata;393;59;162
+163;tortuga boba;Caretta caretta;394;60;163
+164;palo gordo;Carica chilensis;395;61;164
+165;rana chilena;Caudiverbera caudiverbera;396;62;165
+166;cuy peruano;Cavia tschudi;397;63;166
+167;tonina overa;Cephalorhynchus commersoni;398;64;167
+168;delfín chileno;Cephalorhynchus eutropia;399;65;168
+169;quirquincho de la puna;Chaetophractus nationi;400;66;169
+170;peludo;Chaetophractus villosus;401;67;170
+171;caracol terrestre Charopa;Charopa involuta ;402;68;171
+172;caracol terrestre Charopa;Charopa masafuerae;403;69;172
+173;culantrillo;Cheilanthes pruinata;404;70;173
+174;pocha del sur;Cheirodon australe;405;71;174
+175;pocha de los lagos;Cheirodon galusdae;406;72;175
+176;pocha;Cheirodon kiliani;407;73;176
+177;pocha;Cheirodon pisciculus;408;74;177
+178;ratón topo del Estrecho Magallanes;Chelemys delfini;409;75;178
+179;ratón topo del matorral;Chelemys megalonyx;410;76;179
+180;tortuga verde;Chelonia mydas;411;77;180
+181;quenopodio;Chenopodium sanctae-clarae ;412;78;181
+182;chinchilla cordillerana;Chinchilla chinchilla;413;79;182
+183;chinchilla costina;Chinchilla lanigera;414;80;183
+184;chinchillón;Chinchillula sahamae;415;81;184
+185;piuquén;Chloephaga melanoptera;416;82;185
+186;canquén colorado;Chloephaga rubidiceps;417;83;186
+187;chingue común;Conepatus chinga;418;84;187
+188;chingue patagónico;Conepatus humboldtii;419;85;188
+189;comesebo de los tamarugales;Conirostrum tamarugense;420;86;189
+190;cactus;Copiapoa ahremephiana ;421;87;190
+191;cactus;Copiapoa aphanes ;422;88;191
+192;peralillo;Coprosma pyrifolia;423;89;192
+193;carbonillo;Cordia decandra;424;90;193
+194;cisne coscoroba;Coscoroba coscoroba;425;91;194
+195;higuerilla de Paposo;Croton chilensis ;426;92;195
+196;camarón de río del norte;Cryphiops caementarius;427;93;196
+197;dalea ;Dalea azurea;428;94;197
+198;tayú;Dasyphyllum excelsum;429;95;198
+199;delfín ;Delphinus capensis;430;96;199
+200;delfín común;Delphinus delphis;431;97;200
+201;vampiro, piuchén;Desmodus rotundus;432;98;201
+202;coral de piedra;Desmophyllum dianthus;433;99;202
+203;chaguar del jote;Deuterocohnia chrysantha;434;100;203
+204;dicksonia;Dicksonia berteroana;435;101;204
+205;róbalo;Eleginops maclovinus;436;102;205
+206;lauchita de pie sedoso;Eligmodontia puerulus;437;103;206
+207;choroy;Enicognathus leptorhynchus;438;1;207
+208;yerba del platero;Equisetum giganteum;439;2;208
+209;ballena franca austral;Eubalaena australis;440;3;209
+210;guindo santo;Eucryphia glutinosa;441;4;210
+211;perdiz copetona o Martineta;Eudromia elegans;442;5;211
+212;picaflor de Arica;Eulidia yarrellii;443;6;212
+213;copao;Eulychnia acida;444;7;213
+214;ratón sedoso chinchilloide;Euneomys chinchilloides;445;8;214
+215;ratón sedoso nortino;Euneomys mordax;446;9;215
+216;ratón sedoso de Peterson;Euneomys petersoni;447;10;216
+217;rana de hojarasca austral;Eupsophus calcaratus;448;11;217
+218;sapo de Contulmo;Eupsophus contulmoensis;449;12;218
+219;rana de hojarasca de párpados verdes;Eupsophus emiliopugini;450;13;219
+220;sapo de Isla Mocha;Eupsophus insularis;451;14;220
+221;sapo de Miguel;Eupsophus migueli;452;15;221
+222;sapo de Nahuelbuta;Eupsophus nahuelbutensis;453;16;222
+223;sapo;Eupsophus roseus;454;17;223
+224;ranita de Los Queules;Eupsophus septentrionalis;455;18;224
+225;sapo;Eupsophus vertebralis;456;19;225
+226;naranjillo;Fagara externa;457;20;226
+227;halcón peregrino;Falco peregrinus;458;21;227
+228;orca pigmea;Feresa attenuata;459;22;228
+229;golondrina de mar de vientre blanco;Fregetta grallaria;460;23;229
+230;tagua cornuda;Fulica cornuta;461;24;230
+231;tagua gigante;Fulica gigantea;462;25;231
+232;puye;Galaxias globiceps;463;26;232
+233;puye;Galaxias maculatus;464;27;233
+234;puye;Galaxias platei;465;28;234
+235;cuy serrano;Galea musteloides;466;29;235
+236;quique;Galictis cuja;467;30;236
+237;calderón de aleta corta;Globicephala macrorhynchus;468;31;237
+238;calderón negro;Globicephala melas;469;32;238
+239;queule ;Gomortega keule;470;33;239
+240;orquídea de Selkirk;Gavilea insularis;471;34;240
+241;falso calderón;Grampus griseus;472;35;241
+242;greigia;Greigia berteroi;473;36;242
+243;ratón topo chico;Geoxus valdivianus;474;37;243
+244;pato rinconero;Heteronetta atricapilla;475;38;244
+245;taruca;Hippocamelus antisensis;476;39;245
+246;huemul;Hippocamelus bisulcus;477;40;246
+247;bailahuén;Haplopappus taeda ;478;41;247
+248;carza;Haplorhus peruviana;479;42;248
+249;bagre;Hatcheria macraei;480;43;249
+250;hebe;Hebe salicifolia;481;44;250
+251;foca leopardo;Hydrurga leptonyx;482;45;251
+252;rana arbórea;Hylorina sylvatica;483;46;252
+253;helecho película;Hymenophyllum cuneatum;484;47;253
+254;ballena nariz de botella del sur;Hyperodon planifrons;485;48;254
+255;huairavillo;Ixobrychus involucris;486;49;255
+256;chonta;Juania australis;487;50;256
+257;palma chilena;Jubaea chilensis;488;51;257
+258;frangel;Kageneckia angustifolia;489;52;258
+259;cachalote enano de cabeza corta;Kogia breviceps;490;53;259
+260;cachalote enano dentado;Kogia sima;491;54;260
+261;pacul;Krameria cistoidea;492;55;261
+262;falsa pimienta;Lactoris fernandeziana;493;56;262
+263;delfín austral;Lagenorhynchus australis;494;57;263
+264;delfín cruzado;Lagenorhynchus cruciger;495;58;264
+265;delfín obscuro;Lagenorhynchus obscurus;496;59;265
+266;vizcacha;Lagidium viscacia;497;60;266
+267;vizcacha austral;Lagidium wolffsohni;498;61;267
+268;guanaco;Lama guanicoe;499;62;268
+269;llaretilla;Laretia acaulis;500;63;269
+270;gaviotín monja;Larosterna inca;501;64;270
+271;gaviota garuma;Larus modestus;502;65;271
+272;gaviota andina;Larus serranus;503;66;272
+273;pidencito;Laterallus jamaicensis;504;67;273
+274;luma del norte;Legrandia concinna;505;68;274
+275;garra de león;Leontochir ovallei;506;69;275
+276;colo-colo;Leopardus colocolo;507;70;276
+277;gato montés argentino;Leopardus geoffroyi;508;71;277
+278;güiña;Leopardus guigna;509;72;278
+279;tortuga olivácea;Lepidochelys olivacea;510;73;279
+280;cabillo;Libertia tricocca;511;74;280
+281;lagartija rayada nortina;Liolaemus alticolor;512;75;281
+282;lagartija patagónica;Liolaemus archeforus;513;76;282
+283;lagartija de Atacama;Liolaemus atacamensis;514;77;283
+284;dragón de oído cubierto;Liolaemus audituvelata;515;78;284
+285;lagartija parda;Liolaemus bellii;516;79;285
+286;lagartija patagónica de Bibron;Liolaemus bibroni;517;80;286
+287;lagartija de dos manchas;Liolaemus bisignatus;518;81;287
+288;lagartija de Boulenger;Liolaemus boulengeri;519;82;288
+289;lagartija de Bürger;Liolaemus buergeri;520;83;289
+290;lagarto de Cei;Liolaemus ceii ;521;84;290
+291;lagarto chileno;Liolaemus chiliensis;522;85;291
+292;lagartija de Constanza;Liolaemus constanzae;523;86;292
+293;lagartija de Copiapó;Liolaemus copiapoensis;524;87;293
+294;lagartija de Cristián;Liolaemus cristiani;525;88;294
+295;lagartija de Curicó;Liolaemus curicensis;526;89;295
+296;lagarto negro;Liolaemus curis;527;90;296
+297;lagartija de vientre azul;Liolaemus cyanogaster;528;91;297
+298;lagartija de Donoso;Liolaemus donosoi;529;92;298
+299;lagarto de d'Orbigny;Liolaemus dorbignyi;530;93;299
+300;lagartija de Eleodoro;Liolaemus eleodori;531;94;300
+301;dragón grande;Liolaemus erroneus;532;95;301
+302;lagartija de Fabián;Liolaemus fabiani;533;96;302
+303;lagartija de Fitzgerald;Liolaemus fitzgeraldi;534;97;303
+304;lagartija de Fitzinger;Liolaemus fitzingerii ;535;98;304
+305;lagartija oscura;Liolaemus fuscus;536;99;305
+306;lagartija de Gravenhorst ;Liolaemus gravenhorsti;537;100;306
+307;lagartija de Hellmich;Liolaemus hellmichi;538;101;307
+308;lagartija de Hernán;Liolaemus hernani;539;102;308
+309;lagartija de Isabel;Liolaemus isabelae;540;103;309
+310;lagartija de Isluga;Liolaemus islugensis;541;1;310
+311;jararanco de James;Liolaemus jamesi ;542;2;311
+312;lagartija de Ortiz;Liolaemus juanortizi;543;3;312
+313;lagarto de King;Liolaemus kingi;544;4;313
+314;lagarto de Krieg;Liolaemus kriegi;545;5;314
+315;lagarto de Kuhlmann;Liolaemus kuhlmanni;546;6;315
+316;lagartija lemniscata;Liolaemus lemniscatus;547;7;316
+317;lagarto leopardo;Liolaemus leopardinus;548;8;317
+318;lagartija de líneas blancas;Liolaemus lineomaculatus;549;9;318
+319;lagarto de Müller;Liolaemus lorenzmuelleri;550;10;319
+320;lagartija magallánica;Liolaemus magellanicus;551;11;320
+321;lagartija de Maldonado;Liolaemus maldonadae;552;12;321
+322;lagartija de los montes;Liolaemus monticola;553;13;322
+323;lagartija de cabeza negra;Liolaemus nigriceps;554;14;323
+324;lagartija de mancha;Liolaemus nigromaculatus;555;15;324
+325;lagartija negro verdosa;Liolaemus nigroviridis;556;16;325
+326;lagarto nítido;Liolaemus nitidus ;557;17;326
+327;lagartija ornamentada;Liolaemus ornatus;558;18;327
+328;lagartija pantera;Liolaemus pantherinus;559;19;328
+329;lagartija de Patricia Iturra;LIolaemus patriciaiturrae;560;20;329
+330;lagartija de Paulina;Liolaemus paulinae;561;21;330
+331;lagartija;Liolaemus pictus;562;22;331
+332;lagartija de Plate;Liolaemus platei;563;23;332
+333;lagarto de Poconchile;Liolaemus poconchilensis;564;24;333
+334;lagartija lemniscata falsa;Liolaemus pseudolemniscatus;565;25;334
+335;lagartija leopardo del Ramón;Liolaemus ramonensis;566;26;335
+336;dragón de Reiche;Liolaemus reichei;567;27;336
+337;lagartija de Rosenmann;Liolaemus rosenmanni;568;28;337
+338;lagartija de Schmidt;Liolaemus schmidti;569;29;338
+339;lagartija de Schröeder;Liolaemus schroederi;570;30;339
+340;lagarto rubricado;Liolaemus signifer;571;31;340
+341;lagartija de Silva;Liolaemus silvai;572;32;341
+342;dragón de Stolzmann;Liolaemus stolzmanni;573;33;342
+343;lagartija esbelta;Liolaemus tenuis;574;34;343
+344;lagarto de Lo Valdés;Liolaemus valdesianus;575;35;344
+345;lagartija;Liolaemus vallecurensis;576;36;345
+346;jagartija de Veloso;Liolaemus velosoi;577;37;346
+347;lagartija de Walker;Liolaemus walkeri;578;38;347
+348;lagarto de Zapallar;Liolaemus zapallarensis;579;39;348
+349;tupa rosada;Lobelia bridgesii;580;40;349
+350;foca cangrejera;Lobodon carcinophagus;581;41;350
+351;chungungo;Lontra felina;582;42;351
+352;huillín;Lontra provocax;583;43;352
+353;ballena picuda de De Blainville;Mesoplodon densirostris;584;44;353
+354;ballena picuda de Gray;Mesoplodon grayi;585;45;354
+355;ballena picuda de Héctor;Mesoplodon hectori;586;46;355
+356;ballena picuda de Layard;Mesoplodon layardi;587;47;356
+357;metarma ;Metharme lanata;588;48;357
+358;cuy de la patagonia;Microcavia australis;589;49;358
+359;corredor de Atacama;Microlophus atacamensis;590;50;359
+360;corredor de Arica;Microlophus heterolepis;591;51;360
+361;corredor de Mamiña;Microlophus maminensis;592;52;361
+362;corredor de cuatro bandas;Microlophus quadrivittatus;593;53;362
+363;corredor de Tarapacá;Microlophus tarapacensis;594;54;363
+364;corredor de Teresa;Microlophus theresioides;595;55;364
+365;corredor de Arica;Microlophus yanezi;596;56;365
+366;huaiquil, roncador;Micropogonias furnieri;597;57;366
+367;miersia;Miersia cornuta;598;58;367
+368;elefante marino;Mirounga leonina;599;59;368
+369;uvillo;Monttea chilensis;600;60;369
+370;lamprea de agua dulce;Mordacia lapicida;601;61;370
+371;lisa;Mugil cephalus;602;62;371
+372;mulino;Mulinum valentinii;603;63;372
+373;coipo;Myocastor coypus;604;64;373
+374;arrayán de Colchagua;Myrceugenia colchaguensis;605;65;374
+375;petrillo;Myrceugenia correifolia;606;66;375
+376;luma de Masatierra;Myrceugenia fernandeziana ;607;67;376
+377;macolla;Myrceugenia leptospermoides;608;68;377
+378;chequén de hoja fina;Myrceugenia pinifolia;609;69;378
+379;arrayán de hoja ancha;Myrceugenia rufa;610;70;379
+380;luma de Masafuera;Myrceugenia schulzei;611;71;380
+381;mirciantes;Myrcianthes coquimbensis ;612;72;381
+382;pacama;Myrica pavonis;613;73;382
+383;sapo variegado;Nannophryne variegata;614;74;383
+384;bagre grande;Nematogenys inermis;615;75;384
+385;Castañita;Neoporteria castanea;616;76;385
+386;cactus maza;Neoporteria clavata;617;77;386
+387;viejito;Neoporteria nidus;618;78;387
+388;macso;Neowerdermannia chilensis;619;79;388
+389;cazamoscas chocolate;Neoxolmis rufiventris;620;80;389
+390;golondrina de mar de garganta blanca;Nesofregetta fuliginosa;621;81;390
+391;suspiro;Nolana balsamiflua;622;82;391
+392;ruil ;Nothofagus alessandrii;623;83;392
+393;hualo;Nothofagus glauca;624;84;393
+394;zarapito boreal;Numenius borealis;625;85;394
+395;golondrina de mar chica;Oceanites gracilis;626;86;395
+396;golondrina de mar de collar;Oceanodroma hornbyi;627;87;396
+397;golondrina de mar negra;Oceanodroma markhami;628;88;397
+398;ajo dulce;Ochagavia elegans;629;89;398
+399;degú de los matorrales;Octodon bridgesi ;630;90;399
+400;degú costino;Octodon lunatus;631;91;400
+401;cauque del norte;Odontesthes brevianalis;632;92;401
+402;pejerrey de Juan Fernández;Odontesthes gracilis;633;93;402
+403;pejerrey;Odontesthes hatcheri;634;94;403
+404;cauque del Itata;Odontesthes itatanum;635;95;404
+405;cauque  ;Odontesthes mauleanum;636;96;405
+406;caracol terrestre Omalonyx;Omalonyx gayana ;637;97;406
+407;foca de Ross;Omatophoca rossi;638;98;407
+408;orca;Orcinus orca;639;99;408
+409;gato montés andino;Oreailurus jacobita;640;100;409
+410;tunilla;Oreocereus hempelianus;641;101;410
+411;viejito;Oreocereus leucotrichus;642;102;411
+412;chastudo;Oreocereus variicolor;643;103;412
+413;karachi;Orestias agassii;644;1;413
+414;aguila pescadora;Pandion haliaetus;645;2;414
+415;camarón de vega;Parastacus nicoleti;646;3;415
+416;camarón de vega;Parastacus pugnax;647;4;416
+417;serpiente marina;Pelamis platurus;648;5;417
+418;yunco;Pelecanoides garnotii;649;6;418
+419;hierba coca;Pellaea myrtillifolia;650;7;419
+420;perca negra;Percichthys melanops;651;8;420
+421;perca trucha;Percichthys trucha;652;9;421
+422;carmelita;Percilia gillissi;653;10;422
+423;carmelita de Concepción;Percilia irwini;654;11;423
+424;lingue;Persea lingue;655;12;424
+425;ave del trópico de cola roja;Phaeton rubricauda;656;13;425
+426;guanay;Phalacrocorax bougainvillii;657;14;426
+427;lile;Phalacrocorax gaimardi;658;15;427
+428;culebra de cola larga;Philodryas chamissonis   ;659;16;428
+429;culebra de cola larga;Philodryas simonsii;660;17;429
+430;culebra de cola larga de Camarones;Philodryas tachymenoides  ;661;18;430
+431;marsopa espinosa;Phocoena spinipinnis;662;19;431
+432;parina grande;Phoenicoparrus andinus;663;20;432
+433;parina chica;Phoenicoparrus jamesi;664;21;433
+434;flamenco chileno;Phoenicopterus chilensis;665;22;434
+435;salamanqueja del norte grande;Phyllodactylus gerrhopygus;666;23;435
+436;salamanqueja;Phylodactylus heterurus;667;24;436
+437;matuasto;Phymaturus flagellifer;668;25;437
+438;cachalote;Physeter macrocephalus;669;26;438
+439;pintoa;Pintoa chilensis;670;27;439
+440;pitao ;Pitavia punctata;671;28;440
+441;macaya amarilla;Placea lutea ;672;29;441
+442;plantago;Plantago fernandezia;673;30;442
+443;cuervo de pantano;Plegadis chihi;674;31;443
+444;cuervo de pantano de la puna;Plegadis ridgwayi;675;32;444
+445;sapo de cuatro ojos del sur;Pleurodema bufonina;676;33;445
+446;sapo de cuatro ojos del norte;Pleurodema marmorata;677;34;446
+447;sapito de cuatro ojos;Pleurodema thaul;678;35;447
+448;chorlo de Magallanes;Pluvianellus socialis;679;36;448
+449;queñoa;Polylepis rugulosa ;680;37;449
+450;queñoa de altura;Polylepis tarapacana;681;38;450
+451;guayacán;Porlieria chilensis;682;39;451
+452;lúcumo;Pouteria splendens ;683;40;452
+453;gruñidor de Alvaro;Pristidactylus alvaroi;684;41;453
+454;gruñidor del sur;Pristidactylus torquatus;685;42;454
+455;gruñidor de Valeria;Pristidactylus valeriae;686;43;455
+456;gruñidor de El Volcán;Pristidactylus volcanensis;687;44;456
+457;algarrobo del norte;Prosopis alba;688;45;457
+458;alpataco;Prosopis altapaco;689;46;458
+459;algarrobo;Prosopis chilensis;690;47;459
+460;tamarugo enano;Prosopis flexuosa;691;48;460
+461;mastuerzo;Prosopis reptans var. chilensis;692;49;461
+462;retortón;Prosopis strombulifera;693;50;462
+463;tamarugo;Prosopis tamarugo;694;51;463
+464;lleuque;Prumnopytis andina;695;52;464
+465;zorro coloradode Tierra del Fuego;Pseudalopex culpaeus lycoides;696;53;465
+466;zorro colorado;Pseudalopex culpaeus;697;54;466
+467;zorro de Chiloé;Pseudalopex fulvipes;698;55;467
+468;zorro chilla o gris;Pseudalopex griseus;699;56;468
+469;pájaro amarillo;Pseudocolopteryx flaviventris;700;57;469
+470;falsa orca;Pseudorca crassidens;701;58;470
+471;fardela de Cook;Pterodroma coocki;702;59;471
+472;fardela blanca de Más a Tierra;Pterodroma defilippiana;703;60;472
+473;fardela blanca ;Pterodroma externa;704;61;473
+474;fardela ;Pterodroma longirostris;705;62;474
+475;fardela negra ;Pterodroma neglecta;706;63;475
+476;caracol terrestre Ptychodon;Ptychodon oculta ;707;64;476
+477;caracol terrestre Ptychodon;Ptychodon skottsberg ;708;65;477
+478;pudú;Pudu pudu;709;66;478
+479;fardela blanca;Puffinus creatopus;710;67;479
+480;fardela de Pascua;Puffinus nativitatis;711;68;480
+481;puma;Puma concolor;712;69;481
+482;caracol terrestre Punctum;Punctum conicum ;713;70;482
+483;chagual de Coquimbo;Puya coquimbensis;714;71;483
+484;chagualillo;Puya venusta;715;72;484
+485;quisco de Huanta ;Pyrrhocactus eriosyzoides;716;73;485
+486;cunze;Pyrrhocactus eriosyzoides;717;74;486
+487;quisquito de Chañaral;Pyrrhocactus intermedius;718;75;487
+488;pocas costillas;Pyrrhocactus paucicostatus;719;76;488
+489;quisquito de Taltal;Pyrrhocactus taltalensis;720;77;489
+490;ñandú;Rhea pennata pennata;721;78;490
+491;pidén austral;Rallus antarcticus;722;79;491
+492;comadrejita trompuda;Rhyncholestes raphanurus;723;80;492
+493;parrilla falsa;Ribes integrifolium;724;81;493
+494;resino hembra;Robinsonia gayana;725;82;494
+495;resinillo;Robinsonia gracilis;726;83;495
+496;Incienso;Robinsonia macrocephala;727;84;496
+497;robinsonia de las rocas;Robinsonia saxatilis;728;85;497
+498;resino macho;Robinsonia thurifera;729;86;498
+499;becacina pintada;Rostratula semicollaris;730;87;499
+500;yerba del Lagarto;Rumohra adiantiformis;731;88;500
+501;salvia roja;Salvia tubiflora;732;89;501
+502;camarón de río del sur;Samastacus spinifrons;733;90;502
+503;sándalo ;Santalum fernadezianum;734;91;503
+504;laura;Schinus marchandii;735;92;504
+505;teresa;Scutellaria valdiviana;736;93;505
+506;tomate silvestre;Solanum sitiens;737;94;506
+507;toromiro ;Sophora toromiro;738;95;507
+508;cururo;Spalacopus cyanus;739;96;508
+509;pingüino de Humboldt;Spheniscus humboldti;740;97;509
+510;gaviotín chico;Sterna lorata;741;98;510
+511;huedahue;Sticherus litoralis;742;99;511
+512;palmita;Sticherus quadripartitus;743;100;512
+513;yerba loza;Sticherus squamalosus;744;101;513
+514;concón;Strix rufipes;745;102;514
+515;caracol terrestre Succinea;Succinea cryptica ;746;103;515
+516;quetru volador;Tachyeres patagonicus;747;60;516
+517;culebra de cola corta;Tachymenis chilensis  ;748;61;517
+518;culebra peruana;Tachymenis peruviana;749;62;518
+519;ballena picuda de Shepherd;Tasmacetus shepherdi;750;63;519
+520;azulillo ;Tecophilea cyanocrocus;751;64;520
+521;sapo de Pefaur;Telmatobius pefauri;752;65;521
+522;sapo de Philippi;Telmatobius philippii;753;66;522
+523;sapo de Zapahuira;Telmatobius zapahuirensis;754;67;523
+524;sapo Austral;Telmatobufo australis;755;68;524
+525;sapo de Bullock;Telmatobufo bullocki;756;69;525
+526;sapo hermoso;Telmatobufo venustus;757;70;526
+527;odieri;Thelocephala odieri;758;71;527
+528;bandurria de la puna;Theristicus branickii;759;72;528
+529;bandurria;Theristicus melanopis;760;73;529
+530;llaca o Marmosa;Thylamys elegans;761;74;530
+531;perdiz austral;Tinamotis ingoufi;762;75;531
+532;perdiz de la puna;Tinamotis pentlandii;763;76;532
+533;caracol terrestre Tornatellina;Tornatellina aperta ;764;77;533
+534;bagrecito;Trichomycterus areolatus;765;60;534
+535;delfín naríz de botella;Tursiops truncatus;766;61;535
+536;murtillo;Ugni selkirkii;767;62;536
+537;valdivia;Valdivia gayana ;768;63;537
+538;vicuña;Vicugna vicugna;769;64;538
+539;camarón;Virilastacus araucanis;770;65;539
+540;cóndor;Vultur gryphus;771;66;540
+541;yunquea;Yunquea tenzii;772;67;541
+542;piche;Zaedyus pichiy;773;68;542
+543;ballena picuda de Cuvier;Ziphius cavirostris;774;69;543
+544;pasto marino;Zostera chilensis;775;70;544
+545;Cobre;Cobre;155;71;545
+546;Diamante;Diamante;15;72;546
+547;Hierro;Hierro;300;73;547
+548;Carbon;Carbon;890;74;548
+549;Bivranio;Bivranio;1000;75;549
+550;Adamantino;Adamantino;650;76;550
+551;Cobre;Cobre;155;1;545
+552;Diamante;Diamante;15;2;546
+553;Hierro;Hierro;300;3;547
+554;Carbon;Carbon;890;4;548
+555;Bivranio;Bivranio;1000;5;549
+556;Adamantino;Adamantino;650;6;550

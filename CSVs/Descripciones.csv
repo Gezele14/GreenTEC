@@ -1,0 +1,550 @@
+1;Floracion;Primavera;2
+2;Omnivoro;Todo el año;1
+3;Omnivoro;Todo el año;1
+4;Omnivoro;Todo el año;1
+5;Floracion;Todo el año;2
+6;Omnivoro;Todo el año;1
+7;Omnivoro;Todo el año;1
+8;Floracion;Primavera;2
+9;Floracion;Primavera;2
+10;Omnivoro;Todo el año;1
+11;Omnivoro;Todo el año;1
+12;Omnivoro;Todo el año;1
+13;Omnivoro;Todo el año;1
+14;Floracion;Verano;2
+15;Floracion;Verano;2
+16;Floracion;Verano;2
+17;Floracion;Verano;2
+18;Floracion;Verano;2
+19;Carnivoro;Medio año;1
+20;Carnivoro;Medio año;1
+21;Carnivoro;Medio año;1
+22;Carnivoro;Medio año;1
+23;Carnivoro;Medio año;1
+24;Carnivoro;Medio año;1
+25;Carnivoro;Medio año;1
+26;Carnivoro;Medio año;1
+27;Carnivoro;Medio año;1
+28;Carnivoro;Medio año;1
+29;Carnivoro;Medio año;1
+30;Carnivoro;Medio año;1
+31;Carnivoro;Medio año;1
+32;Carnivoro;Medio año;1
+33;Carnivoro;Medio año;1
+34;Carnivoro;Medio año;1
+35;Carnivoro;Todo el año;1
+36;Carnivoro;Todo el año;1
+37;Omnivoro;Todo el año;1
+38;Omnivoro;Todo el año;1
+39;Omnivoro;Todo el año;1
+40;Omnivoro;Todo el año;1
+41;Omnivoro;Todo el año;1
+42;Omnivoro;Todo el año;1
+43;Omnivoro;Todo el año;1
+44;Omnivoro;Todo el año;1
+45;Omnivoro;Todo el año;1
+46;Omnivoro;Todo el año;1
+47;Omnivoro;Todo el año;1
+48;Omnivoro;Todo el año;1
+49;Omnivoro;Todo el año;1
+50;Omnivoro;Todo el año;1
+51;Omnivoro;Todo el año;1
+52;Floracion;Primavera;2
+53;Floracion;Primavera;2
+54;Floracion;Primavera;2
+55;Floracion;Primavera;2
+56;Floracion;Primavera;2
+57;Floracion;Primavera;2
+58;Floracion;Primavera;2
+59;Floracion;Primavera;2
+60;Floracion;Primavera;2
+61;Floracion;Primavera;2
+62;Floracion;Primavera;2
+63;Carnivoro;Invierno;1
+64;Carnivoro;Invierno;1
+65;Carnivoro;Invierno;1
+66;Carnivoro;Invierno;1
+67;Carnivoro;Invierno;1
+68;Herviboro;Invierno;1
+69;Herviboro;Invierno;1
+70;Herviboro;Invierno;1
+71;Herviboro;Todo el año;1
+72;Herviboro;Todo el año;1
+73;Herviboro;Todo el año;1
+74;Herviboro;Todo el año;1
+75;Herviboro;Todo el año;1
+76;Omnivoro;Todo el año;1
+77;Carnivoro;Todo el año;1
+78;Carnivoro;Todo el año;1
+79;Carnivoro;Todo el año;1
+80;Carnivoro;Todo el año;1
+81;Carnivoro;Todo el año;1
+82;Herviboro;Todo el año;1
+83;Herviboro;Todo el año;1
+84;Herviboro;Todo el año;1
+85;Herviboro;Todo el año;1
+86;Herviboro;Todo el año;1
+87;Herviboro;Todo el año;1
+88;Herviboro;Todo el año;1
+89;Herviboro;Todo el año;1
+90;Floracion;Verano;2
+91;Omnivoro;Medio año;1
+92;Omnivoro;Medio año;1
+93;Omnivoro;Medio año;1
+94;Omnivoro;Medio año;1
+95;Omnivoro;Medio año;1
+96;Floracion;Primavera;2
+97;Carnivoro;Dos veces al año;1
+98;Carnivoro;Dos veces al año;1
+99;Carnivoro;Dos veces al año;1
+100;Omnivoro;Dos veces al año;1
+101;Floracion;Todo el año;2
+102;Omnivoro;Todo el año;1
+103;Omnivoro;Todo el año;1
+104;Omnivoro;Todo el año;1
+105;Omnivoro;Todo el año;1
+106;Omnivoro;Todo el año;1
+107;Omnivoro;Todo el año;1
+108;Omnivoro;Todo el año;1
+109;Omnivoro;Todo el año;1
+110;Omnivoro;Todo el año;1
+111;Sin floracion;Todo el año;2
+112;Sin floracion;Todo el año;2
+113;Omnivoro;Todo el año;1
+114;Omnivoro;Todo el año;1
+115;Omnivoro;Todo el año;1
+116;Omnivoro;Todo el año;1
+117;Omnivoro;Todo el año;1
+118;Omnivoro;Todo el año;1
+119;Sin floracion;Verano;2
+120;Sin floracion;Verano;2
+121;Sin floracion;Verano;2
+122;Sin floracion;Verano;2
+123;omnivoro;Invierno;1
+124;Sin floracion;Medio año;2
+125;Sin floracion;Medio año;2
+126;Sin floracion;Todo el año;2
+127;Carnivoro;Una vez al año;1
+128;Carnivoro;Una vez al año;1
+129;Carnivoro;Una vez al año;1
+130;Carnivoro;Una vez al año;1
+131;Carnivoro;Una vez al año;1
+132;Omnivoro;Todo el año;1
+133;Omnivoro;Todo el año;1
+134;Omnivoro;Todo el año;1
+135;Omnivoro;Todo el año;1
+136;Omnivoro;Todo el año;1
+137;Omnivoro;Todo el año;1
+138;Omnivoro;Todo el año;1
+139;Frutal;Medio año;2
+140;Frutal;Medio año;2
+141;Frutal;Una vez al año;2
+142;Frutal;Una vez al año;2
+143;Frutal;Una vez al año;2
+144;Frutal;Una vez al año;2
+145;Carnivoro;Una vez al año;1
+146;Floracion;Todo el año;2
+147;Floracion;Todo el año;2
+148;Floracion;Todo el año;2
+149;Floracion;Todo el año;2
+150;Omnivoro;Todo el año;1
+151;Sin Floracion;Verano;2
+152;Omnivoro;Todo el año;1
+153;Carnivoro;Todo el año;1
+154;Carnivoro;Todo el año;1
+155;Carnivoro;Todo el año;1
+156;Carnivoro;Todo el año;1
+157;Carnivoro;Todo el año;1
+158;Sin Floracion;Primavera;2
+159;Omnivoro;Todo el año;1
+160;Herviboro;Todo el año;1
+161;Omnivoro;Todo el año;1
+162;Carnivoro;Una vez al año;1
+163;Herviboro;Dos veces al año;1
+164;Sin Floracion;Todo el año;2
+165;Omnivoro;Todo el año;1
+166;Omnivoro;Todo el año;1
+167;Omnivoro;Todo el año;1
+168;Carnivoro;Dos veces al año;1
+169;Carnivoro;Una vez al año;1
+170;Carnivoro;Todo el año;1
+171;Herviboro;Todo el año;1
+172;herviboro;Todo el año;1
+173;Comestible;Todo el año;2
+174;Omnivoro;Medio año;1
+175;Omnivoro;Medio año;1
+176;Omnivoro;Medio año;1
+177;Omnivoro;Medio año;1
+178;Omnivoro;Medio año;1
+179;Omnivoro;Medio año;1
+180;herviboro;Medio año;1
+181;Sin Floracion;Todo el año;2
+182;Omnivoro;Todo el año;1
+183;Omnivoro;Todo el año;1
+184;Omnivoro;Todo el año;1
+185;Herviboro;Todo el año;1
+186;Herviboro;Todo el año;1
+187;Herviboro;Todo el año;1
+188;Herviboro;Todo el año;1
+189;Herviboro;Todo el año;1
+190;Sin Floracion;Verano;2
+191;Sin Floracion;Verano;2
+192;Sin Floracion;Primavera;2
+193;Sin Floracion;Primavera;2
+194;Herviboro;Primavera;1
+195;Sin Floracion;Invierno;2
+196;Herviboro;Invierno;1
+197;Sin Floracion;Todo el año;2
+198;Sin Floracion;Todo el año;2
+199;Carnivoro;Una vez al año;1
+200;Carnivoro;Dos veces al año;1
+201;Carnivoro;Todo el año;1
+202;Carnivoro;Una vez al año;1
+203;Sin Floracion;Medio año;2
+204;Sin Floracion;Medio año;2
+205;Herviboro;Medio año;1
+206;Herviboro;Medio año;1
+207;Herviboro;Medio año;1
+208;Sin Floracion;Medio año;2
+209;Carnivoro;Medio año;1
+210;Sin Floracion;Medio año;2
+211;Omnivoro;Medio año;1
+212;Herviboro;Medio año;1
+213;Sin Floracion;Medio año;2
+214;Omnivoro;Todo el año;1
+215;Omnivoro;Todo el año;1
+216;Omnivoro;Todo el año;1
+217;Omnivoro;Todo el año;1
+218;Omnivoro;Todo el año;1
+219;Omnivoro;Todo el año;1
+220;Omnivoro;Todo el año;1
+221;Omnivoro;Todo el año;1
+222;Omnivoro;Todo el año;1
+223;Omnivoro;Todo el año;1
+224;Omnivoro;Todo el año;1
+225;Omnivoro;Todo el año;1
+226;Frutal;Todo el año;2
+227;Carnivoro;Dos veces al año;1
+228;Omnivoro;Una vez al año;1
+229;Omnivoro;Todo el año;1
+230;Omnivoro;Dos veces al año;1
+231;Omnivoro;Dos veces al año;1
+232;Omnivoro;Todo el año;1
+233;Omnivoro;Todo el año;1
+234;Omnivoro;Todo el año;1
+235;Omnivoro;Todo el año;1
+236;Omnivoro;Todo el año;1
+237;Omnivoro;Todo el año;1
+238;Omnivoro;Todo el año;1
+239;Floracion;Todo el año;2
+240;Floracion;Todo el año;2
+241;Omnivoro;Todo el año;1
+242;Floracion;Todo el año;2
+243;Herviboro;Todo el año;1
+244;Herviboro;Todo el año;1
+245;Herviboro;Todo el año;1
+246;Herviboro;Todo el año;1
+247;Floracion;Todo el año;2
+248;Floracion;Verano;2
+249;Herviboro;Dos veces al año;1
+250;Floracion;Invierno;2
+251;Carnivoro;Dos veces al año;1
+252;Omnivoro;Dos veces al año;1
+253;Sin floracion;Todo el año;2
+254;Carnivoro;Una vez al año;1
+255;Carnivoro;Todo el año;1
+256;Sin floracion;Todo el año;2
+257;Sin floracion;Todo el año;2
+258;Sin floracion;Todo el año;2
+259;Carnivoro;Todo el año;1
+260;Carnivoro;Todo el año;1
+261;Sin floracion;Todo el año;2
+262;Sin floracion;Todo el año;2
+263;Carnivoro;Dos veces al año;1
+264;Carnivoro;Dos veces al año;1
+265;Carnivoro;Dos veces al año;1
+266;Carnivoro;Medio año;1
+267;Carnivoro;Medio año;1
+268;Carnivoro;Medio año;1
+269;Sin floracion;Todo el año;2
+270;Omnivoro;Todo el año;1
+271;Omnivoro;Todo el año;1
+272;Omnivoro;Todo el año;1
+273;Omnivoro;Todo el año;1
+274;Sin floracion;Todo el año;2
+275;Sin floracion;Todo el año;2
+276;Carnivoro;Todo el año;1
+277;Carnivoro;Todo el año;1
+278;Herviboro;Una vez al año;1
+279;Herviboro;Una vez al año;1
+280;Sin floracion;Todo el año;2
+281;Omnivoro;Todo el año;1
+282;Omnivoro;Todo el año;1
+283;Omnivoro;Todo el año;1
+284;Omnivoro;Todo el año;1
+285;Omnivoro;Todo el año;1
+286;Omnivoro;Todo el año;1
+287;Omnivoro;Todo el año;1
+288;Omnivoro;Todo el año;1
+289;Omnivoro;Todo el año;1
+290;Omnivoro;Todo el año;1
+291;Omnivoro;Todo el año;1
+292;Omnivoro;Todo el año;1
+293;Omnivoro;Todo el año;1
+294;Omnivoro;Todo el año;1
+295;Omnivoro;Todo el año;1
+296;Omnivoro;Todo el año;1
+297;Omnivoro;Todo el año;1
+298;Omnivoro;Todo el año;1
+299;Omnivoro;Todo el año;1
+300;Omnivoro;Todo el año;1
+301;Omnivoro;Todo el año;1
+302;Omnivoro;Todo el año;1
+303;Omnivoro;Todo el año;1
+304;Omnivoro;Todo el año;1
+305;Omnivoro;Todo el año;1
+306;Omnivoro;Todo el año;1
+307;Omnivoro;Todo el año;1
+308;Omnivoro;Todo el año;1
+309;Omnivoro;Todo el año;1
+310;Omnivoro;Todo el año;1
+311;Omnivoro;Todo el año;1
+312;Omnivoro;Todo el año;1
+313;Omnivoro;Todo el año;1
+314;Omnivoro;Todo el año;1
+315;Omnivoro;Todo el año;1
+316;Omnivoro;Todo el año;1
+317;Omnivoro;Todo el año;1
+318;Omnivoro;Todo el año;1
+319;Omnivoro;Todo el año;1
+320;Omnivoro;Todo el año;1
+321;Omnivoro;Todo el año;1
+322;Omnivoro;Todo el año;1
+323;Omnivoro;Todo el año;1
+324;Omnivoro;Todo el año;1
+325;Omnivoro;Todo el año;1
+326;Omnivoro;Todo el año;1
+327;Omnivoro;Todo el año;1
+328;Omnivoro;Todo el año;1
+329;Omnivoro;Todo el año;1
+330;Omnivoro;Todo el año;1
+331;Omnivoro;Todo el año;1
+332;Omnivoro;Todo el año;1
+333;Omnivoro;Todo el año;1
+334;Omnivoro;Todo el año;1
+335;Omnivoro;Todo el año;1
+336;Omnivoro;Todo el año;1
+337;Omnivoro;Todo el año;1
+338;Omnivoro;Todo el año;1
+339;Omnivoro;Todo el año;1
+340;Omnivoro;Todo el año;1
+341;Omnivoro;Todo el año;1
+342;Omnivoro;Todo el año;1
+343;Omnivoro;Todo el año;1
+344;Omnivoro;Todo el año;1
+345;Omnivoro;Todo el año;1
+346;Omnivoro;Todo el año;1
+347;Omnivoro;Todo el año;1
+348;Omnivoro;Todo el año;1
+349;Omnivoro;Una vez al año;2
+350;Carnivoro;Una vez al año;1
+351;Carnivoro;Una vez al año;1
+352;Carnivoro;Una vez al año;1
+353;Carnivoro;Una vez al año;1
+354;Carnivoro;Una vez al año;1
+355;Carnivoro;Una vez al año;1
+356;Carnivoro;Una vez al año;1
+357;Sin floracion;Dos veces al año;2
+358;Omnivoro;Dos veces al año;1
+359;Omnivoro;Dos veces al año;1
+360;Omnivoro;Invierno;1
+361;Omnivoro;Invierno;1
+362;Omnivoro;Invierno;1
+363;Omnivoro;Invierno;1
+364;Omnivoro;Invierno;1
+365;Omnivoro;Invierno;1
+366;Omnivoro;Dos veces al año;1
+367;Sin floracion;Una vez al año;2
+368;Carnivoro;Una vez al año;1
+369;Frutal;Todo el año;2
+370;Herviboro;Todo el año;1
+371;Herviboro;Todo el año;1
+372;Frutal;Todo el año;2
+373;Herviboro;Todo el año;1
+374;Frutal;Todo el año;2
+375;Frutal;Medio año;2
+376;Frutal;Medio año;2
+377;Frutal;Medio año;2
+378;Frutal;Medio año;2
+379;Frutal;Medio año;2
+380;Frutal;Medio año;2
+381;Frutal;Medio año;2
+382;Frutal;Medio año;2
+383;Herviboro;Todo el año;1
+384;Herviboro;Todo el año;1
+385;Sin floracion;Todo el año;2
+386;Sin floracion;Una vez al año;2
+387;Sin floracion;Verano;2
+388;Sin floracion;Medio año;2
+389;Carnivoro;Medio año;1
+390;Omnivoro;Medio año;1
+391;Sin floracion;Medio año;2
+392;Sin floracion;Medio año;2
+393;Sin floracion;Medio año;2
+394;Omnivoro;Medio año;1
+395;Omnivoro;Medio año;1
+396;Omnivoro;Medio año;1
+397;Omnivoro;Medio año;1
+398;Comestible;Todo el año;2
+399;Omnivoro;Todo el año;1
+400;Omnivoro;Todo el año;1
+401;Omnivoro;Todo el año;1
+402;Omnivoro;Todo el año;1
+403;Omnivoro;Todo el año;1
+404;Omnivoro;Todo el año;1
+405;Omnivoro;Todo el año;1
+406;herviboro;Todo el año;1
+407;Carnivoro;Dos veces al año;1
+408;Carnivoro;Una vez al año;1
+409;Carnivoro;Dos veces al año;1
+410;Sin floracion;Medio año;2
+411;Sin floracion;Medio año;2
+412;Sin floracion;Medio año;2
+413;Carnivoro;Medio año;1
+414;Carnivoro;Medio año;1
+415;Herviboro;Medio año;1
+416;Herviboro;Medio año;1
+417;Herviboro;Medio año;1
+418;Herviboro;Medio año;1
+419;Sin floracion;Medio año;2
+420;Omnivoro;Medio año;1
+421;Omnivoro;Todo el año;1
+422;Omnivoro;Todo el año;1
+423;Omnivoro;Todo el año;1
+424;Sin floracion;Todo el año;2
+425;Omnivoro;Todo el año;1
+426;Omnivoro;Todo el año;1
+427;Omnivoro;Todo el año;1
+428;Omnivoro;Todo el año;1
+429;Omnivoro;Todo el año;1
+430;Omnivoro;Todo el año;1
+431;Omnivoro;Todo el año;1
+432;Omnivoro;Todo el año;1
+433;Omnivoro;Todo el año;1
+434;Omnivoro;Todo el año;1
+435;Omnivoro;Todo el año;1
+436;Omnivoro;Todo el año;1
+437;Omnivoro;Todo el año;1
+438;Omnivoro;Medio año;1
+439;Sin floracion;Medio año;2
+440;Sin floracion;Medio año;2
+441;Sin floracion;Medio año;2
+442;Sin floracion;Medio año;2
+443;Omnivoro;Todo el año;1
+444;Omnivoro;Todo el año;1
+445;Omnivoro;Todo el año;1
+446;Omnivoro;Todo el año;1
+447;Omnivoro;Todo el año;1
+448;Omnivoro;Todo el año;1
+449;Sin floracion;Todo el año;2
+450;Sin floracion;Todo el año;2
+451;Sin floracion;Todo el año;2
+452;Sin floracion;Todo el año;2
+453;Omnivoro;Todo el año;1
+454;Omnivoro;Todo el año;1
+455;Omnivoro;Todo el año;1
+456;Omnivoro;Todo el año;1
+457;Sin floracion;Todo el año;2
+458;Sin floracion;Todo el año;2
+459;Sin floracion;Todo el año;2
+460;Sin floracion;Todo el año;2
+461;Sin floracion;Todo el año;2
+462;Sin floracion;Todo el año;2
+463;Sin floracion;Todo el año;2
+464;Sin floracion;Todo el año;2
+465;Carnivoro;Dos veces al año;1
+466;Carnivoro;Dos veces al año;1
+467;Carnivoro;Dos veces al año;1
+468;Carnivoro;Dos veces al año;1
+469;Omnivoro;Una vez al año;1
+470;Omnivoro;Una vez al año;1
+471;Omnivoro;Dos veces al año;1
+472;Omnivoro;Dos veces al año;1
+473;Omnivoro;Dos veces al año;1
+474;Omnivoro;Dos veces al año;1
+475;Omnivoro;Dos veces al año;1
+476;Herviboro;Una vez al año;1
+477;Herviboro;Una vez al año;1
+478;Carnivoro;Dos veces al año;1
+479;Carnivoro;Dos veces al año;1
+480;Carnivoro;Dos veces al año;1
+481;Carnivoro;Medio año;1
+482;Herviboro;Dos veces al año;1
+483;Sin floracion;Todo el año;2
+484;Sin floracion;Todo el año;2
+485;Sin floracion;Todo el año;2
+486;Sin floracion;Todo el año;2
+487;Sin floracion;Todo el año;2
+488;Sin floracion;Todo el año;2
+489;Sin floracion;Todo el año;2
+490;Herviboro;Todo el año;1
+491;Herviboro;Todo el año;1
+492;Herviboro;Todo el año;1
+493;Sin floracion;Todo el año;2
+494;Sin floracion;Todo el año;2
+495;Sin floracion;Todo el año;2
+496;Sin floracion;Todo el año;2
+497;Sin floracion;Todo el año;2
+498;Sin floracion;Todo el año;2
+499;Herviboro;Todo el año;1
+500;Sin floracion;Todo el año;2
+501;Sin floracion;Todo el año;2
+502;Herviboro;Todo el año;1
+503;Sin floracion;Todo el año;2
+504;Sin floracion;Todo el año;2
+505;Sin floracion;Todo el año;2
+506;Frutal;Todo el año;2
+507;Frutal;Todo el año;2
+508;Omnivoro;Una vez al año;1
+509;Omnivoro;Una vez al año;1
+510;Omnivoro;Una vez al año;1
+511;Frutal;Una vez al año;2
+512;Frutal;Medio año;2
+513;Frutal;Medio año;2
+514;Carnivoro;Medio año;1
+515;Carnivoro;Medio año;1
+516;Carnivoro;Medio año;1
+517;Carnivoro;Invierno;1
+518;Carnivoro;Invierno;1
+519;Carnivoro;Invierno;1
+520;Frutal;Invierno;2
+521;Omnivoro;Todo el año;1
+522;Omnivoro;Todo el año;1
+523;Omnivoro;Todo el año;1
+524;Omnivoro;Todo el año;1
+525;Omnivoro;Todo el año;1
+526;Omnivoro;Todo el año;1
+527;Floracion;Todo el año;2
+528;Omnivoro;Todo el año;1
+529;Omnivoro;Todo el año;1
+530;Omnivoro;Todo el año;1
+531;Omnivoro;Todo el año;1
+532;Carnivoro;Todo el año;1
+533;Herviboro;Todo el año;1
+534;Herviboro;Todo el año;1
+535;Carnivoro;Una vez al año;1
+536;Floracion;Dos veces al año;2
+537;Floracion;Dos veces al año;2
+538;Carnivoro;Dos veces al año;1
+539;Carnivoro;Dos veces al año;1
+540;Carnivoro;Dos veces al año;1
+541;Floracion;Todo el año;2
+542;Carnivoro;Todo el año;1
+543;Carnivoro;Todo el año;1
+544;Sin floracion;Todo el año;2
+545;Roca;;3
+546;Cristal;;3
+547;Roca;;3
+548;Roca;;3
+549;Metal;Como en Wakanda;3
+550;Metal;El que tiene wolverine;3
